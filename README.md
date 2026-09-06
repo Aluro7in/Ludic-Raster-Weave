@@ -1,4 +1,4 @@
-# Sprite2World
+# Ludic-Raster-Weave
 
 **The AI designs. Sprite2World engineers.**
 
